@@ -20,4 +20,4 @@ seeing Poll on localhost:5000/ and Result on localhost:5001/
 
 
 
-<img width="1440" alt="스크린샷 2024-03-06 오후 3 26 41" src="https://github.com/EpitechPromo2028/B-DOP-200-PAR-2-1-popeye-hyelim.jeon/assets/114721039/539c338b-1340-4a1f-8342-b9e73ee6367d">
+![Uploading 스크린샷 2024-03-06 오후 3.26.41.png…]()
