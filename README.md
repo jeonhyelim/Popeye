@@ -19,5 +19,4 @@ The result:
 seeing Poll on localhost:5000/ and Result on localhost:5001/  
 
 
-
-![Uploading 스크린샷 2024-03-06 오후 3.26.41.png…]()
+<img width="1440" alt="스크린샷 2024-03-06 오후 3 26 41" src="https://github.com/user-attachments/assets/46aa5ba8-e004-4e6d-93f4-280efbe20d6a" />
